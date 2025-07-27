@@ -93,11 +93,11 @@ Aqui estão os endpoints disponíveis e como usá-los:
     },
     {
         "id": 2,
-        "nome": "produto12",
+        "nome": "produto2",
         "descricao": "descricao2",
         "preco": 250.0,
         "estoque": 120,
-        "categoria": "categoria1"
+        "categoria": "categoria2"
     }
 ]
 ```
